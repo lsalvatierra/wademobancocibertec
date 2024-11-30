@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\wademobancocibertec\\views\\cuenta\\transferir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|solutionrelative:views\\cuenta\\transferir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\wademobancocibertec\\repositories\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|solutionrelative:repositories\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\wademobancocibertec\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|solutionrelative:services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\wademobancocibertec\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|solutionrelative:controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\wademobancocibertec\\repositories\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EA7A36-4B65-40F7-A20E-DE4E462B9ADC}|wademobancocibertec.csproj|solutionrelative:repositories\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transferir.cshtml",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Views\\Cuenta\\Transferir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cuenta\\Transferir.cshtml",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Views\\Cuenta\\Transferir.cshtml",
+              "RelativeToolTip": "Views\\Cuenta\\Transferir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:07:25.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Controllers\\CuentaController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:58:53.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Services\\CuentaService.cs",
+              "RelativeDocumentMoniker": "Services\\CuentaService.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Services\\CuentaService.cs",
+              "RelativeToolTip": "Services\\CuentaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:57:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Repositories\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CuentaRepository.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Repositories\\CuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\CuentaRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvy4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:55:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Repositories\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICuentaRepository.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\wademobancocibertec\\Repositories\\ICuentaRepository.cs",
+              "RelativeToolTip": "Repositories\\ICuentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:54:08.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@model wademobancocibertec.ViewModel.TransferenciaViewModel
+
+<div class="container mt-5">
+    @if (TempData["Mensaje"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["Mensaje"]
+        </div>
+    }
+
+    <h2 class="mb-4">Realizar Transferencia</h2>
+    <form asp-action="Transferir" method="post">
+        <div class="mb-3">
+            <label for="cuentaOrigenId" class="form-label">Cuenta Origen:</label>
+            <select asp-for="Transferencia.CuentaOrigenId" asp-items="@(new SelectList(Model.Cuentas, "Id", "Nombre"))" class="form-select">
+                <option value="">Seleccione una cuenta</option>
+            </select>
+            <span class="text-danger">
+                @Html.ValidationMessageFor(m => m.Transferencia.CuentaOrigenId)
+            </span>
+        </div>
+
+        <div class="mb-3">
+            <label for="cuentaDestinoId" class="form-label">Cuenta Destino:</label>
+            <select asp-for="Transferencia.CuentaDestinoId" asp-items="@(new SelectList(Model.Cuentas, "Id", "Nombre"))" class="form-select">
+                <option value="">Seleccione una cuenta</option>
+            </select>
+            <span class="text-danger">
+                @Html.ValidationMessageFor(m => m.Transferencia.CuentaDestinoId)
+            </span>
+        </div>
+
+        <div class="mb-3">
+            <label for="monto" class="form-label">Monto:</label>
+            <input asp-for="Transferencia.Monto" type="number" step="0.01" class="form-control" />
+            <span class="text-danger">
+                @Html.ValidationMessageFor(m => m.Transferencia.Monto)
+            </span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Transferir</button>
+    </form>
+
+    @if (ViewData.ModelState.IsValid == false)
+    {
+        <div class="alert alert-danger mt-4" role="alert">
+            Por favor, corrija los errores antes de continuar.
+        </div>
+    }
+</div>
